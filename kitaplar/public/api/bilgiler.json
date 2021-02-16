@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "baslik":"1984",
+        "aciklama":"Parti’nin dünya görüşü, onu hiç anlayamayan insanlara çok daha kolay dayatılıyordu. (...) Her şeyi yutuyorlar ve hiçbir zarar görmüyorlardı çünkü tıpkı bir mısır tanesinin bir kuşun bedeninden sindirilmeden geçip gitmesi gibi, yuttuklarından geriye bir şey kalmıyordu.",
+        "yazar":"George Orwel",
+        "resim":"https://img.kitapyurdu.com/v1/getImage/fn:1105898/wi:200/wh:true"
+
+    },
+
+    {
+        "id":2,
+        "baslik":"Momo",
+        "aciklama":"Momo elinde bir çiçek, koltuğunun altında bir kaplumbağa ve gizemli Hora Usta’nın da yardımıyla koskoca duman adamlar ordusunun karşısında tek başına durur. Acaba Momo, zamanı çalan adamları tek başına alt edebilecek midir?",
+        "yazar":"Michael Ende",
+        "resim":"https://img.kitapyurdu.com/v1/getImage/fn:4493743/wh:true/wi:256/pc:304"
+
+    },
+    {
+        "id":3,
+        "baslik":"Fareler ve Insanlar",
+        "aciklama":"Fareler ve İnsanlar, birbirine zıt karakterdeki iki mevsimlik tarım işçisinin, zeki George Milton ve onun güçlü kuvvetli ama akli dengesi bozuk yoldaşı Lennie Small’un öyküsünü anlatır. Küçük bir toprak satın alıp insanca bir hayat yaşamanın hayalini kuran bu ikilinin öyküsünde dostluk ve dayanışma duygusu önemli bir yer tutar. Steinbeck insanın insanla ilişkisini anlatmakla kalmaz insanın doğayla ve toplumla kurduğu ilişkileri de konu eder bu destansı romanında",
+        "yazar":"John Steinbeck",
+        "resim":"https://img.kitapyurdu.com/v1/getImage/fn:11227945/wh:true/wi:256/pc:111"
+
+    },
+    {
+        "id":4,
+        "baslik":"Körlük",
+        "aciklama":"Adı bilinmeyen bir ülkenin adı bilinmeyen bir kentinde, arabasının direksiyonunda trafik ışığının yeşile dönmesini bekleyen bir adam ansızın kör olur. Ancak karanlıklara değil, bembeyaz bir boşluğa gömülür. Arkasından, körlük salgını bütün kente, hatta bütün ülkeye yayılır. Ne yönetim kalır ülkede, ne de düzen; bütün körler karantinaya alınır.",
+        "yazar":"Jose Saramago",
+        "resim":"https://img.kitapyurdu.com/v1/getImage/fn:11359590/wh:true/wi:256/pc:336"
+
+
+    }
+]
